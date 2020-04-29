@@ -1,7 +1,7 @@
 // wuzg
 public class TestGit {
 	public static void main(String[] args) {
-		// 打印日志
+		// aaa
 		System.out.println("hello git!");
 	}
 }
